@@ -25,8 +25,6 @@ Features
 -Email notification triggers (Inngest)
 - How to Run Locally (Optional section for devs)
 
-You can keep this short:
-
 Edit
 # Clone the repo
 git clone https://github.com/your-username/quickshow.git
