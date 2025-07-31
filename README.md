@@ -1,3 +1,9 @@
+<img width="1709" height="892" alt="image" src="https://github.com/user-attachments/assets/d1bc2a52-cd70-460c-acda-72e36ab0fc7c" />
+
+
+
+
+
 🎬 QuickShow – Movie Ticket Booking App
 QuickShow is a full-stack MERN-based movie ticket booking application that enables users to browse movies, book seats, make secure payments via Stripe, and manage bookings in real-time. The app features user authentication (via Clerk), role-based access for admins, and an integrated dashboard for managing movies, bookings, and showtimes.
 
