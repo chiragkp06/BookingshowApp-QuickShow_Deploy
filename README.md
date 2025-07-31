@@ -26,7 +26,6 @@ Features
 
 **.**How to Run Locally 
 # Clone the repo
-git clone https://github.com/your-username/quickshow.git
 
 # Install dependencies
 cd client && npm install
