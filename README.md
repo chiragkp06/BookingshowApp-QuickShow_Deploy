@@ -23,9 +23,8 @@ Features
 -Admin dashboard to manage movies, users, bookings
 -Booking history and invoice support
 -Email notification triggers (Inngest)
-- How to Run Locally (Optional section for devs)
 
-Edit
+**.**How to Run Locally 
 # Clone the repo
 git clone https://github.com/your-username/quickshow.git
 
